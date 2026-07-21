@@ -9,8 +9,13 @@
 
 ---
 
+> 🔥 **Follow-up work:** [**VERA — Turning Video Models into Generalist Robot Policies**](https://github.com/sizhe-li/VERA) turns a frozen video generative model into a robot policy: the video model dreams the future, and a Jacobian inverse dynamics model — built on the same idea as Jacobian fields — translates the dream into actions, from a real Franka arm to a 16-DoF Allegro hand. [Paper](https://arxiv.org/abs/2605.27817) · [Project page](https://vera.csail.mit.edu/) · [Models](https://huggingface.co/sizhe-lester-li/VERA)
+
+---
+
 ## 📢  Announcements
 
+- **[2026-07-21]** Our follow-up work [**VERA — Turning Video Models into Generalist Robot Policies**](https://github.com/sizhe-li/VERA) is out — code and checkpoints released ([paper](https://arxiv.org/abs/2605.27817), [project page](https://vera.csail.mit.edu/), [models](https://huggingface.co/sizhe-lester-li/VERA)).
 - **[2025-09-23]** Added [FAQ](#faq) about training time and supervision types.
 - **[2025-08-29]** Released the [Allegro-Hand-Only Dataset](https://huggingface.co/datasets/sizhe-lester-li/neural-jacobian-field-allegro-only) — a lighter version containing only the Allegro Hand, making it much faster to download.
 - **[2025-06-25]** Our paper is now published in [**Nature**](https://www.nature.com/articles/s41586-025-09170-0).
